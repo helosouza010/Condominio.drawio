@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.1">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2771" dy="4507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2900" dy="4574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1354,6 +1354,87 @@
         </mxCell>
         <mxCell id="OWRHslrihKlMDCpAsCbd-413" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="-1465" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-416" value="morador solicita usar salao de eventos" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="375" y="-2040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-417" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="420" y="-2150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-418" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OWRHslrihKlMDCpAsCbd-417">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="-2042" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-419" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="-1918" as="targetPoint" />
+            <mxPoint x="430" y="-1996" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="-1926" />
+              <mxPoint x="430" y="-1926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-420" value="sindico consulta a agenda" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="-1913" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-421" value="sindico retorna disponibilidades na agenda para o morador" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="-1798" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-422" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.57" y="-1795" as="targetPoint" />
+            <mxPoint x="429.57" y="-1873" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="429.57" y="-1803" />
+              <mxPoint x="429.57" y="-1803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-425" value="Visitas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="-2252" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-426" value="morador" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="-1730" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-427" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="429.5" y="-1630" as="targetPoint" />
+            <mxPoint x="429.53" y="-1690" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="429.5" y="-1665" />
+              <mxPoint x="429.5" y="-1665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-428" value="aceita um dos horario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="-1690" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-430" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="521" y="-1660" as="targetPoint" />
+            <mxPoint x="470.03" y="-1710" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="470" y="-1685" />
+              <mxPoint x="470" y="-1685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-431" value="nao quer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="-1710" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-432" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="-1680" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-433" value="Sindico anota hora,data emorador na agenda e fica agnedado o salao" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="-1620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-434" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="415" y="-1560" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWRHslrihKlMDCpAsCbd-435" value="Agendar salao de eventos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="-2150" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
